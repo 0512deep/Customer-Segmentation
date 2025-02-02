@@ -1,4 +1,4 @@
-# I.PROLOGUE
+# I. INTRODUCTION
 This is a project on customer segmentation, using a dataset from UC Irvine which containing transactions occuring at a UK based online retail store - https://tinyurl.com/UK-Store-Dataset.
 The main idea for this project is to find out the different types of customers that are purchasing from the store and split them into different groups to learn their purchase patterns using KMeans, finally suggesting actionable insights based on the results.
 
